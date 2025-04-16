@@ -1,26 +1,10 @@
 {
-    "jobs": [
-        { "id": 1, "title": "Software Engineer", "details": "myself" },
-        {
-          "id": 2,
-          "title": "Data Analyst",
-          "details": "myself"
-        },
-        {
-          "id": 3,
-          "title": "Product Manager",
-          "details": "myself"
-        }
-    ]
-}
-
-/* 
-{
   "jobs": [
     {
       "id": 1,
       "title": "Software Engineer",
       "details": {
+        "name": "John Doe",
         "location": "Dhaka",
         "salary": "৳80,000",
         "description": "Develop and maintain web applications."
@@ -30,6 +14,7 @@
       "id": 2,
       "title": "Data Analyst",
       "details": {
+        "name": "Jane Smith",
         "location": "Chittagong",
         "salary": "৳60,000",
         "description": "Analyze data to support business decisions."
@@ -39,6 +24,7 @@
       "id": 3,
       "title": "Product Manager",
       "details": {
+        "name": "Alice Johnson",
         "location": "Sylhet",
         "salary": "৳100,000",
         "description": "Oversee product development lifecycle."
@@ -46,5 +32,3 @@
     }
   ]
 }
-
- */
